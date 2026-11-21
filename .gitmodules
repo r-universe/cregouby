@@ -1,4 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cregouby/cregouby.r-universe.dev
 	branch = HEAD
+[submodule "TabICLv2"]
+	path = TabICLv2
+	url = https://github.com/cregouby/TabICLv2
+[submodule "microinverterdata"]
+	path = microinverterdata
+	url = https://github.com/camembr/microinverterdata/issues
+[submodule "tabnet"]
+	path = tabnet
+	url = https://github.com/mlverse/tabnet
+[submodule "torchvision"]
+	path = torchvision
+	url = https://github.com/mlverse/torchvision
+[submodule "torchvisionlib"]
+	path = torchvisionlib
+	url = https://github.com/mlverse/torchvisionlib
+[submodule "vespa"]
+	path = vespa
+	url = https://github.com/cregouby/vespa
