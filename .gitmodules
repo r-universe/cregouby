@@ -4,10 +4,10 @@
 	branch = HEAD
 [submodule "TabICLv2"]
 	path = TabICLv2
-	url = https://github.com/cregouby/TabICLv2
+	url = https://github.com/cregouby/TabICL2
 [submodule "microinverterdata"]
 	path = microinverterdata
-	url = https://github.com/camembr/microinverterdata/issues
+	url = https://github.com/camembr/microinverterdata
 [submodule "tabnet"]
 	path = tabnet
 	url = https://github.com/mlverse/tabnet
