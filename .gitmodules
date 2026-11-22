@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/cregouby/cregouby.r-universe.dev
 	branch = HEAD
-[submodule "TabICLv2"]
-	path = TabICLv2
+[submodule "TabICL2"]
+	path = TabICL2
 	url = https://github.com/cregouby/TabICL2
 [submodule "microinverterdata"]
 	path = microinverterdata
